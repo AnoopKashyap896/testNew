@@ -41,7 +41,7 @@
 					<muleVersion>4.2.2</muleVersion>
 					<username>Anoop_kp</username>
 					<password>Qwertyui896!</password>
-					<applicationName>cicd-sample</applicationName>
+					<applicationName>customer_api</applicationName>
 					<environment>Sandbox</environment>
 					<workerType>MICRO</workerType>
 					<objectStoreV2>true</objectStoreV2>
